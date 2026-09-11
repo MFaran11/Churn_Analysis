@@ -89,11 +89,4 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook churn_analysis.ipynb
 ```
 
-## 🔮 Possible Next Steps
 
-- Build a predictive churn model (logistic regression / XGBoost) using `churn_score`, `escalations`, `plan_type`, and `tenure_days` as features.
-- Automate the pipeline into a scheduled ETL job feeding a live dashboard (e.g., Power BI / Tableau).
-- Segment customers by CLTV vs. churn risk to prioritize retention spend.
-
----
-*Built as a portfolio project to demonstrate data cleaning, feature engineering, SQL, and visualization skills using Python.*
